@@ -8,7 +8,7 @@ You can view the published Power BI dashboard [here](https://app.powerbi.com/gro
 ### 1. Summary Dashboard
 The Summary Dashboard provides a high-level overview of key metrics in the loan portfolio:
 
-Key Metrics: Total loan applications, funded amount, received amount, average interest rate, and average debt-to-income (DTI) ratio.
+Key Metrics: Total loan applications, Total Funded Amount, Total Received Amount, Average Interest Rate, and Average debt-to-income (DTI) Ratio.
 Loan Quality Breakdown: Pie charts indicating proportions of Good Loans and Bad Loans.
 Loan Status Breakdown: Distribution of Fully Paid, Charged Off, and Current loan statuses.
 
@@ -20,4 +20,11 @@ Category Breakdown: Analysis by State, Loan Term, Employee Length, Loan Purpose,
 
 ### 3. Details Dashboard
 The Details Dashboard contains a table with customer-specific data, providing a granular view of loan applications, terms, and borrower profiles.
+
+## SQL Queries
+The repository includes SQL scripts used to prepare and aggregate data for the dashboard, covering:
+
+- Data extraction
+- Calculations for key metrics like funded and received amounts, average interest rate, and DTI ratio
+- Aggregations by month, state, and other categories
 
