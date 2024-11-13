@@ -2,7 +2,7 @@
 This repository contains a Bank Loan Analysis Dashboard created in Power BI, along with the SQL queries used for data extraction and transformation. The dashboard provides insights into loan applications, funding patterns, and borrower demographics. The project is organized into three main dashboards: Summary, Overview, and Details.
 
 ## View Dashboard
-You can view the published Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/1f5d639f-4f06-4c2f-9956-0653a4c65935/60c8c300e25d1273540d?experience=power-bi).
+You can view the published Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZjBiMTRjMjctZTRmNi00OGM5LWI3NWUtYmFmYWEwYWU4ZmQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ## Dashboard Sections
 ### 1. Summary Dashboard
